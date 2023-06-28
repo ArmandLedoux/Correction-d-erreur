@@ -4,8 +4,6 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
-#include <pthread.h>
 
 #define alpha 3
 #define n 65536 
